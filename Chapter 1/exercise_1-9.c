@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/* NOT WORKING */
+
 main(){
   int c;
 
@@ -9,9 +11,6 @@ main(){
       while ((c == getchar()) == ' '){
         ; /* keep looking through the input */
       }
-    }
-    if ((c == getchar()) != ' '){
-      putchar(c);
     }
   }
 
