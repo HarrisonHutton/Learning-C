@@ -1,6 +1,6 @@
-**/.DS_Store
-
 # Ingoring the output-binary files that are generated from compiling the C code
 *
 !/**/
 !*.*
+
+**/.DS_Store
